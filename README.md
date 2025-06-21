@@ -29,7 +29,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-pytest_ruff-green.svg)](https://anaconda.org/conda-forge/pytest_ruff) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pytest_ruff.svg)](https://anaconda.org/conda-forge/pytest_ruff) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/pytest_ruff.svg)](https://anaconda.org/conda-forge/pytest_ruff) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/pytest_ruff.svg)](https://anaconda.org/conda-forge/pytest_ruff) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-pytest__ruff-green.svg)](https://anaconda.org/conda-forge/pytest_ruff) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pytest_ruff.svg)](https://anaconda.org/conda-forge/pytest_ruff) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/pytest_ruff.svg)](https://anaconda.org/conda-forge/pytest_ruff) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/pytest_ruff.svg)](https://anaconda.org/conda-forge/pytest_ruff) |
 
 Installing pytest_ruff
 ======================

@@ -1,6 +1,6 @@
 {% set name = "pytest_ruff" %}
 {% set python_min = "3.8" %}
-{% set version = "0.4.1" %}
+{% set version = "0.5" %}
 
 package:
   name: {{ name|lower }}
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 2c9a30f15f384c229c881b52ec86cfaf1e79d39530dd7dd5f2d6aebe278f7eb7
+  sha256: f611c780fc2b9b8d7041fa0e7589f0a9f352b288d0cfc330881101b35d382063
 
 build:
   noarch: python
